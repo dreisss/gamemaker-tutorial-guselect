@@ -1,3 +1,3 @@
 instance_destroy(other)
 
-flower+=1
+collected_flowers+=1

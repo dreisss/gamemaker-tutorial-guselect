@@ -1,17 +1,17 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Ambient2",
+  "%Name":"TopDown2",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_6B386B08_1","path":"rooms/Ambient2/Ambient2.yy",},
-    {"name":"inst_5903FE86_1","path":"rooms/Ambient2/Ambient2.yy",},
-    {"name":"inst_21581B19_1","path":"rooms/Ambient2/Ambient2.yy",},
-    {"name":"inst_3535F89B1","path":"rooms/Ambient2/Ambient2.yy",},
-    {"name":"inst_7CE56818_1","path":"rooms/Ambient2/Ambient2.yy",},
-    {"name":"inst_4F62FD4F1","path":"rooms/Ambient2/Ambient2.yy",},
+    {"name":"inst_6B386B08_1","path":"rooms/TopDown2/TopDown2.yy",},
+    {"name":"inst_5903FE86_1","path":"rooms/TopDown2/TopDown2.yy",},
+    {"name":"inst_21581B19_1","path":"rooms/TopDown2/TopDown2.yy",},
+    {"name":"inst_3535F89B1","path":"rooms/TopDown2/TopDown2.yy",},
+    {"name":"inst_7CE56818_1","path":"rooms/TopDown2/TopDown2.yy",},
+    {"name":"inst_4F62FD4F1","path":"rooms/TopDown2/TopDown2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -25,7 +25,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294936665,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sBg","path":"sprites/sBg/sBg.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
-  "name":"Ambient2",
+  "name":"TopDown2",
   "parent":{
     "name":"Scenes",
     "path":"folders/Scenes.yy",

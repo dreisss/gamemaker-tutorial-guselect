@@ -26,8 +26,8 @@
     {"id":{"name":"oCactus","path":"objects/oCactus/oCactus.yy",},},
     {"id":{"name":"oFlower","path":"objects/oFlower/oFlower.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"Ambient1","path":"rooms/Ambient1/Ambient1.yy",},},
-    {"id":{"name":"Ambient2","path":"rooms/Ambient2/Ambient2.yy",},},
+    {"id":{"name":"TopDown1","path":"rooms/TopDown1/TopDown1.yy",},},
+    {"id":{"name":"TopDown2","path":"rooms/TopDown2/TopDown2.yy",},},
     {"id":{"name":"sBg","path":"sprites/sBg/sBg.yy",},},
     {"id":{"name":"sCactus","path":"sprites/sCactus/sCactus.yy",},},
     {"id":{"name":"sFlower","path":"sprites/sFlower/sFlower.yy",},},
@@ -37,8 +37,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Ambient1","path":"rooms/Ambient1/Ambient1.yy",},},
-    {"roomId":{"name":"Ambient2","path":"rooms/Ambient2/Ambient2.yy",},},
+    {"roomId":{"name":"TopDown1","path":"rooms/TopDown1/TopDown1.yy",},},
+    {"roomId":{"name":"TopDown2","path":"rooms/TopDown2/TopDown2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
